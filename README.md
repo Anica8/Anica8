@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Anica Singh
 
-<!--
-**Anica8/Anica8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
+- 🔭 I’m currently working on ML projects
+- 🌱 I’m currently learning DSA, frontend and computer vision
+- 👯 I’m looking to collaborate on ML projects
+- 🤔 I’m looking for help with deployment of ML projects
+- 💬 Ask me about deep learning
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anica-singh-8ba2a7199/)
+- 😄 Pronouns: she/her
+<!-- - ⚡ Fun fact:  -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
